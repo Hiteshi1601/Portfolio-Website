@@ -1,0 +1,1 @@
+The Portfolio Website is a personal project designed to showcase my skills, projects, and achievements in a professional and visually appealing way. Built with a modern and responsive design, it provides a smooth browsing experience across devices while highlighting key information such as my background, technical expertise, and project work.
